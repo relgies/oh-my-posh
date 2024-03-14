@@ -52,7 +52,7 @@
             "time_format": "15:04"
           },
           "style": "diamond",
-          "template": "{{ .CurrentDate | date .Format }} ",
+          "template": "\u23f0 {{ .CurrentDate | date .Format }} ",
           "trailing_diamond": "\ue0b0",
           "type": "time"
         }
